@@ -8,7 +8,7 @@ namespace MulticastDelegateApp
         static void Main(string[] args)
         {
             AddTwoNum addNum = Plus;
-            addNum += Minus;
+            addNum += Multiply;
 
             Console.Write("Please enter first number: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
@@ -25,7 +25,7 @@ namespace MulticastDelegateApp
             Console.WriteLine($"The sum of num1 and num2 is: {a + b}");
         }
 
-        static void Minus(int a, int b)
+        static void Multiply(int a, int b)
         {
             Console.WriteLine($"The Multiple of num1 and num2 is: {a * b}");
         }
