@@ -27,7 +27,7 @@ namespace MulticastDelegateApp
 
         static void Minus(int a, int b)
         {
-            Console.WriteLine($"The difference of num1 and num2 is: {a - b}");
+            Console.WriteLine($"The Multiple of num1 and num2 is: {a * b}");
         }
 
     }
