@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\obj\Debug\netcoreapp3.1\DesmondLimited.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\obj\Debug\netcoreapp3.1\DesmondLimited.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\obj\Debug\netcoreapp3.1\DesmondLimited.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.exe
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.deps.json
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.runtimeconfig.json
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.dll
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\bin\Debug\netcoreapp3.1\DesmondLimited.pdb
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\obj\Debug\netcoreapp3.1\DesmondLimited.dll
+C:\codebitacademyfolder\C#\Labtask-12\DesmondLimited\obj\Debug\netcoreapp3.1\DesmondLimited.pdb

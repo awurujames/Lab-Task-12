@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\obj\Debug\netcoreapp3.1\DelegateApp.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\obj\Debug\netcoreapp3.1\DelegateApp.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\obj\Debug\netcoreapp3.1\DelegateApp.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.exe
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.deps.json
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.runtimeconfig.json
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.dll
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\bin\Debug\netcoreapp3.1\DelegateApp.pdb
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\obj\Debug\netcoreapp3.1\DelegateApp.dll
+C:\codebitacademyfolder\C#\Labtask-12\delegateApp\obj\Debug\netcoreapp3.1\DelegateApp.pdb

@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.exe
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.deps.json
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.runtimeconfig.json
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.dll
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\bin\Debug\netcoreapp3.1\MulticastDelegateApp.pdb
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\obj\Debug\netcoreapp3.1\MulticastDelegateApp.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\obj\Debug\netcoreapp3.1\MulticastDelegateApp.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\obj\Debug\netcoreapp3.1\MulticastDelegateApp.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\obj\Debug\netcoreapp3.1\MulticastDelegateApp.dll
+C:\codebitacademyfolder\C#\Labtask-12\MulticastDelegateApp\obj\Debug\netcoreapp3.1\MulticastDelegateApp.pdb
